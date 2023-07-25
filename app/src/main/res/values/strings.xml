@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Rekomendasi Hotel</string>
+
+    <string name="hotel_name">Nama Hotel</string>
+    <string name="description">Lokasi Hotel</string>
+    <string-array name="data_name">
+        <item>Aston Hotel</item>
+        <item>Dominic Hotel</item>
+        <item>Elsotel</item>
+        <item>Java Heritage</item>
+        <item>Meotel Purwokerto </item>
+        <item>Surya Yudha Hotel</item>
+        <item>Grand Karlita Hotel</item>
+        <item>Luminor hotel</item>
+        <item>Hayde Inn Hotel</item>
+        <item>Hotel Wisata Niaga Campus</item>
+        <item>Green Valley Resort</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara</item>
+        <item>Jl. Komisaris Bambang Suprapto No.39-41, Cigrobak, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah.</item>
+        <item>Jl. Prof. Dr. Suharso No.43, RT.07/RW.02, Mangunjaya, Purwokerto Lor</item>
+        <item>Jl. Overste Isdiman No.33, Glempang, Bancarkembar, Kec. Purwokerto Utara</item>
+        <item>Jl. DR. Soeparno Selatan No.1, Arcawinangun, Kec. Purwokerto Tim.</item>
+        <item>Jl. Gerilya Barat Tj. No.30A, Gandasuli, Karangpucung, Kec. Purwokerto Sel.</item>
+        <item>Jl. S. Parman, Purwokerto Kulon, Purwokerto Sel.</item>
+        <item>JL. Jendral Sudirman No. 324 Purwokerto, Jawa Tengah, Indonesia. </item>
+        <item>Jl. Gelora Indah I No.2, Arcawinangun, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53113, Indonesia. </item>
+        <item>JL. Profesor Doktor HR Boenyamin No 637 C, Purwokerto Utara, Purwokerto </item>
+        <item>Jl. Raya Baturaden Km. 8, Baturaden, Purwokerto, Indonesia  </item>
+
+
+    </string-array>
+
+    <string-array name="hotel_description">
+        <item>Aston Imperium Purwokerto adalah hotel berbintang 4 di Purwokerto. Letaknya strategis, hanya 5 menit berkendara dari Universitas Soedirman, Purwokerto. Hotel ini menawarkan kolam renang atap,
+            kolam renang anak-anak, restoran, dan 3 bar. Selain itu, WiFi gratis bisa diakses di seluruh area hotel.Kamar-kamar di Aston Imperium Purwokerto didesain secara elegan, dengan lantai kayu dan
+            jendela yang mencapai langit-langit. Di setiap kamar, terdapat AC, TV layar datar, lemari es mini dan fasilitas pembuat kopi/teh. Shower, handuk dan peralatan mandi gratis tersedia di kamar mandi pribadinya.</item>
+
+        <item>Berjarak 6 menit berkendara dari Taman Andhang Pangrenan Purwokerto, Dominic Hotel Purwokerto memiliki restoran dan layanan concierge. Hotel ini adalah properti modern yang didekorasi dengan aksen emas,
+            di mana tamu dapat menikmati sarapan dan parkir gratis, sementara Wi-Fi dapat diakses di seluruh area. Menampilkan perabotan kayu, kamar-kamar ber-AC hotel ini dilengkapi meja, kulkas dan TV layar datar. Fasilitas pembuat kopi/teh juga disertakan.
+            Kamar mandi pribadi menyediakan shower, handuk dan perlengkapan mandi gratis. Beberapa kamar memiliki area tempat duduk terpisah. Menyajikan sarapan buffet harian dan layanan kamar, restoran hotel DM Cafe menyajikan masakan lokal dan Indonesia. </item>
+
+        <item>Elsotel Purwokerto By Daphna International menawarkan akomodasi di Purwokerto dan berjarak sejauh 800 meter dari Padang Golf Wijayakusuma. Properti ini memiliki pusat kebugaran dan fasilitas rapat. Setiap kamar dilengkapi dengan TV layar datar, fasilitas pembuat kopi/teh, dan AC.
+            Shower dan peralatan mandi gratis tersedia di kamar mandi. Tamu dapat menikmati makanan di restoran atau mengunjungi berbagai pilihan tempat makan lain yang tersedia di sekitar properti. Staf di properti dapat membantu anda terkait penitipan bagasi dan layanan laundry.</item>
+
+        <item>Java Heritage Hotel Purwokerto menawarkan pengalaman menginap di hotel bintang 4 yang memadukan desain budaya Jawa dengan desain masa kini. Membanggakan pemandangan Gunung Slamet yang terlihat jelas dari hotel, terdapat juga kolam renang, pusat kebugaran, spa dan taman yang asri di dalam hotel.
+            Akses WiFi gratis dapat digunakan di seluruh area hotel. Setiap kamar menggunakan lantai kayu dan dilengkapi dengan AC, meja kerja, TV layar datar serta brankas. Tersedia juga minibar, mesin pembuat kopi/teh dan air mineral. Kamar mandi dalam dilengkapi dengan shower, handuk dan peralatan mandi gratis. </item>
+
+        <item>Meotel Purwokerto by Dafam in Purwokerto menawarkan penginapan bernuansa nyaman di Purwokerto dan terletak hanya 10 menit berkendara dari Rita Supermall. Hotel ini memiliki kolam renang outdoor, spa dan fasilitas rapat. Kamu juga bisa menikmati akses WiFi gratis di seluruh area hotel.</item>
+        <item>Hotel bintang 3 di Purwokerto, Hotel Surya Yudha Purwokerto menawarkan akomodasi terjangkau yang hanya berjarak 700 meter dari Taman Andhang Pangrenan Purwokerto. WiFi gratis dan berbagai fasilitas seperti kolam renang, pusat kebugaran dan restoran tersedia bagi para tamu selama menginap. Didesain modern dengan sentuhan Jawa, Hotel Surya Yudha Purwokerto memiliki kamar yang dilengkapi dengan AC, TV kabel, fasilitas pembuat kopi/teh dan meja lengkap dengan kursi.</item>
+        <item>Grand Karlita Hotel Purwokerto yang berselang 5 menit berkendara dari RITA SuperMall Purwokerto menawarkan akomodasi bintang 4 di Kota Purwokerto. Hotel ini menyediakan kolam renang dan gedung pertemuan. Akses WiFi gratis juga tersedia di seluruh area bagi kamu yang menginap. Kamar-kamar di Grand Karlita Hotel Purwokerto memiliki fasilitas AC, TV kabel layar datar, ketel listrik, kulkas kecil dan meja kerja.</item>
+        <item>Berlokasi di Purwokerto, Banyumas, Luminor Hotel Purwokerto merupakan hotel bintang 4 yang menawarkan penginapan yang nyaman dilengkapi dengan layanan resepsionis 24 jam dan fasilitas rapat. Kamar ber-AC dengan desain modern yang ditawarkan dilengkapi dengan TV layar datar, meja kerja, dan kasur yang nyaman. Kamar mandi dilengkapi dengan shower dan wastafel bercermin. </item>
+        <item>Hayden Inn merupakan akomodasi rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan bujet, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh. Bagi Anda yang menginginkan kualitas pelayanan oke dengan harga yang ramah di kantong, Hayden Inn adalah pilihan yang tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang tetap terjaga mutunya. </item>
+        <item>Parkir mobil dan Wi-Fi selalu gratis, sehingga Anda dapat terus terhubung serta datang dan pergi kapan saja. Terletak strategis di Purwokerto Utara yang merupakan bagian Purwokerto, properti ini menempatkan Anda dekat dengan atraksi dan opsi restoran menarik. Jangan pulang dulu sebelum berkunjung ke Rumah Makan Djago Jowo yang terkenal. Sebagai bonus tambahan, restoran disediakan di properti untuk memenuhi kebutuhan Anda dengan mudah.</item>
+        <item>Menginap di Green Valley Resort Baturraden Purwokerto saat anda sedang berada di Baturraden adalah sebuah pilihan cerdas.hotel ini cukup mudah dijangkau karena berdekatan dengan fasilitas publik.</item>
+
+
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/aston</item>
+        <item>@drawable/dominic</item>
+        <item>@drawable/elsotel</item>
+        <item>@drawable/javaheritage</item>
+        <item>@drawable/meotel</item>
+        <item>@drawable/suryayudha</item>
+        <item>@drawable/grandkarlita</item>
+        <item>@drawable/luminorhotel</item>
+        <item>@drawable/haydeninn</item>
+        <item>@drawable/niagacampus</item>
+        <item>@drawable/resort</item>
+    </integer-array>
+</resources>
